@@ -1,0 +1,17 @@
+The definition of a bank varies from country to country. See the relevant country pages for more information.
+
+Under English common law, a banker is defined as a person who carries on the business of banking by conducting current accounts for his customers, paying cheques drawn on him/her and also collecting cheques for his/her customers.[15]
+
+
+Banco de Venezuela in Coro.
+
+Branch of Nepal Bank in Pokhara, Western Nepal.
+In most common law jurisdictions there is a Bills of Exchange Act that codifies the law in relation to negotiable instruments, including cheques, and this Act contains a statutory definition of the term banker: banker includes a body of persons, whether incorporated or not, who carry on the business of banking' (Section 2, Interpretation). Although this definition seems circular, it is actually functional, because it ensures that the legal basis for bank transactions such as cheques does not depend on how the bank is structured or regulated.
+
+The business of banking is in many common law countries not defined by statute but by common law, the definition above. In other English common law jurisdictions there are statutory definitions of the business of banking or banking business. When looking at these definitions it is important to keep in mind that they are defining the business of banking for the purposes of the legislation, and not necessarily in general. In particular, most of the definitions are from legislation that has the purpose of regulating and supervising banks rather than regulating the actual business of banking. However, in many cases the statutory definition closely mirrors the common law one. Examples of statutory definitions:
+
+"banking business" means the business of receiving money on current or deposit account, paying and collecting cheques drawn by or paid in by customers, the making of advances to customers, and includes such other business as the Authority may prescribe for the purposes of this Act; (Banking Act (Singapore), Section 2, Interpretation).
+"banking business" means the business of either or both of the following:
+receiving from the general public money on current, deposit, savings or other similar account repayable on demand or within less than [3 months] ... or with a period of call or notice of less than that period;
+paying or collecting cheques drawn by or paid in by customers.[16]
+Since the advent of EFTPOS (Electronic Funds Transfer at Point Of Sale), direct credit, direct debit and internet banking, the cheque has lost its primacy in most banking systems as a payment instrument. This has led legal theorists to suggest that the cheque based definition should be broadened to include financial institutions that conduct current accounts for customers and enable customers to pay and be paid by third parties, even if they do not pay and collect cheques .[17]
