@@ -1,0 +1,1 @@
+Firefox creator Mozilla developed Rust and integrated it into Firefox over three years ago
