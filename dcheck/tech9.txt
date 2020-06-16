@@ -1,0 +1,21 @@
+The best-known cloud infrastructure providers are Amazon, Google and Microsoft. But there are several others catering to specialized needs. California-headquartered Fortune 500 company NetApp, for example, provides cloud services for storage and management of enterprise data. It has been in the thick of coping with a surge in demand. “Our leadership team is monitoring the situation daily to mitigate impact on services," says Ravi Chhabria, MD of NetApp India.
+
+Tech innovations play a key role in cloud-based services ranging from telehealth to ordering groceries. “For example, AI can help ensure the supply of food to billions of people on lockdown around the globe," says Chhabria.
+
+TAPPING INNOVATIONS
+
+NetApp has been running a startup accelerator programme in Bengaluru since 2017 to tap innovations. These could enhance NetApp’s core technology. But the broader idea is to also take these innovations to NetApp’s customers.
+
+“Our programme offers to help B2B tech product startups tap into the NetApp customer base globally, because we’re also a B2B (business-to-business) company," says Madhurima Agarwal, who leads the NetApp Excellerator in Bengaluru.
+
+This is more significant in the current environment where travelling to meet prospective clients or vendors is not possible. The presence of facilitators like the NetApp accelerator can help overcome trust barriers and make connections between startups and enterprises.
+
+The programme has evolved from its first cohort in 2017, even as the deep tech startup ecosystem in Bengaluru has matured. So all startups in the fifth cohort that graduated this year did a paid proof of concept (PoC) for NetApp, unlike the first batch which had very early stage startups. “Legal hassles and paperwork are taken care of at the PoC stage when startups are on-boarded as vendors. So the roadblocks from PoC to actual commercial engagement will be minimized," says Agarwal.
+
+Bengaluru-based Lightwing, for example, automates the optimization of cloud services for enterprises, helping them cut cloud bills, which has become more vital in an economic slowdown. Lightwing’s PoC was to help business teams in NetApp optimize their cloud usage and measure savings.
+
+“Then it becomes a matter of our sales teams going to our customers with Lightwing and saying, ‘This is how we’ve used it in NetApp’. We’re validating the product, and lending credibility and going to market," says Agarwal.
+
+Eight startups from previous cohorts are in “strategic alliances" with NetApp for a go-to-market programme. Bengaluru-based Zscore, which uses AI to sort the wheat from the chaff in data, has engaged with NetApp clients in Australia. AI-powered cybersecurity startup Anlyz, which graduated in 2018, tested its product in NetApp last year before deploying it with a security service provider.
+
+Corporate accelerator programmes have been a mixed bag in Bengaluru. Microsoft’s accelerator programme, for instance, has morphed time and again as concepts that sounded good on paper couldn’t be put into practice. Sales teams often have different agendas from those running accelerator programmes in large organizations.“It’s not easy," she admits. Sometimes it’s NetApp clients that move things along. “A client comes and says, ‘I saw this startup in your accelerator programme. What do you think of them?’ That motivates the sales team to come and talk to us," says Agarwal.

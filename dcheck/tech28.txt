@@ -1,0 +1,11 @@
+Millions of Huawei handsets including the flagships Mate 30s and P40s will not have access to the joint Apple-Google contact tracing system for new coronavirus. The comprehensive solution from the tech giants use Bluetooth to identify and list phones users in your circle and if the owner of one of those phones gets infected with COVID-19, you will receive an alert.
+According to a Forbes report, nearly 600 million Android users in China and those with a Huawei handset will not have access to this unique technology to curb coronavirus spread.
+Google expects that nearly 80 per cent of Android phones outside China will be able to use the new solution. The absence of Google app ecosystem on Huawei devices – owing to the US-China trade war – has led to its flagships like Mate 30s and P40s losing a big market.
+
+
+"Huawei has its own issues flowing from its ties to Beijing and the building backlash against what is seen as China's lack of transparency in the early stages of the pandemic. In that regard, this is something of a sideshow," the report mentioned.
+In a warning to new Huawei smartphone users, Google has advised them not to sideload Google's apps and services like Gmail and YouTube as these are not available for preload or sideload on new Huawei devices.
+Huawei last month got another breather as the Donald Trump administration extended a license that allows companies in the US to do business with the Chinese telecom giant until May 15.
+Huawei was added to the Entity List in May last year after the US government concluded the company poses a "significant risk of involvement in activities contrary to the national security or foreign policy interests of the United States".
+
+It means that Google is prohibited from working with Huawei on new device models or providing Google's apps including Gmail, Maps, YouTube, the Play Store and others for preload or download on these devices. Sideloading Google's apps carry a high risk of installing an app that has been altered or tampered with in ways that can compromise user security.

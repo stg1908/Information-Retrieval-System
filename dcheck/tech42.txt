@@ -1,0 +1,16 @@
+Report Tries to Explain Google Stadia Failure
+Google’s Stadia was always going to fail, but a new report claims that the issue isn’t missing features or a tiny game library. It’s Google.
+
+“We spoke with game developers and publishers who said there are two main reasons their games aren’t on Stadia,” a new report in Business Insider notes. “Google didn’t offer them enough money, and they don’t trust the mercurial company to stick with gaming in the long term.”
+
+Thurrott.com readers will know that this mirrors an opinion piece I wrote back in November, when Microsoft’s Project xCloud finally appeared in preview form and was immediately better than anything Google could offer. The reason? Microsoft has a long-established relationship with the gaming industry and understands that market. Google does not.
+
+And the BI report puts some data to that theory, noting that, while Google plans to improve the selection of games this year, it doesn’t feature any blockbusters titles from the independent game developers that pad out the libraries on PlayStation, Xbox, and Switch.
+
+“We were approached by the Stadia team,” one indie developer told the publication, sounding a theme that was apparently repeated by other sources. “Usually with that kind of thing, they lead with some kind of offer that would give you an incentive to go with them. [But the incentive] was kind of non-existent. That’s the short of it.”
+
+The issue, really, is that Google didn’t offer enough money to warrant investing in a new platform. “There isn’t enough money there,” one source said. Google’s offer was “so low that it wasn’t even part of the conversation.”
+
+There are other concerns with Stadia, of course, and Google’s inability to stick with products and services over the long haul is one of them. “Could see yourself getting into a long-term relationship with Google?” one developer asked, rhetorically. “With Google’s history, I don’t even know if they’re working on Stadia in a year. That wouldn’t be something crazy that Google does. It’s within their track record.”
+
+My perspective on Stadia hasn’t changed since November: Google doesn’t just not offer developers enough incentive to take a chance on the service, it doesn’t offer gamers enough incentive. And until or unless that changes, I’ll continue giving it a pass.

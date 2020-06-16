@@ -1,0 +1,41 @@
+The TensorFlow team at Google recently introduced a new tool for TensorFlow Lite (TFLite) known as Model Maker. The TFLite Model Maker simplifies the process of adapting and converting a TensorFlow Neural Network model to particular input data when deploying this model for on-device ML applications.
+
+Developed by researchers and engineers from the Google Brain team, TensorFlow is one of the most sought after deep learning frameworks of all time. Last year, TensorFlow Lite was open-sourced by the TensorFlow team for mobile devices, and two development boards – Sparkfun and Coral – to perform machine learning tasks on handheld devices like smartphones.
+
+Behind Model Maker
+TensorFlow Lite Model Maker is an easy-to-use library which can be used to adapt state-of-the-art machine learning models to the dataset with transfer learning. This library wraps the complex machine learning concepts with an intuitive API, and does not need an expert to get started with machine learning techniques.
+
+This library supports various state-of-the-art models that are available on TensorFlow Hub, including the EfficientNet-Lite and ALBERT-Lite models. Currently, Model Maker supports image classification, and text classification and the researchers claimed that more use cases like Computer Vision and natural language processing (NLP) would be added soon.
+
+The two new fields in the metadata are machine-readable parameters, such as normalization parameters like standard deviation, category label files, mean, etc. and human-readable parameters such as model description, model license, etc. The researchers claimed to expand the metadata in their future goals further to support more use cases, including object detection and more NLP tasks.  
+
+With the help of this tool, a developer can easily train a state-of-the-art image classification with only four lines of code, as shown below:
+
+1. Load input data specific to an on-device ML app
+
+data = ImageClassifierDataLoader.from_folder(‘flower_photos/’)
+
+2. Customize the TensorFlow model
+
+model = image_classifier.create(data)
+
+3. Evaluate the model 
+
+loss, accuracy = model.evaluate()
+
+4. Export to Tensorflow Lite model
+
+model.export(‘flower_classifier.tflite’, ‘flower_label.txt’, with_metadata=True)
+
+To gain higher accuracy, a developer can switch to different model architecture by changing one line of code while keeping the rest of the training pipeline. For instance, switching from EfficientNet-Lite to ResNet, one needs to type:
+
+# EfficinetNet-Lite2.
+
+model = image_classifier.create(data, efficientnet_lite2_spec)
+
+# ResNet 50.
+
+model = image_classifier.create(data, resnet_50_spec)
+
+Wrapping Up
+TensorFlow Lite is TensorFlow’s lightweight solution for mobile and embedded devices to enable on-device machine learning inference with low latency and small binary size. For future work, the researchers stated that they would enhance Model Maker to support more tasks, including object detection and several NLP tasks. Furthermore, they will also add BERT support for NLP tasks, such as question and answer, which will help in empowering developers without machine learning expertise to build state-of-the-art NLP models through transfer learning.

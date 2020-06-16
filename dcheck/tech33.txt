@@ -1,0 +1,19 @@
+Apple has announced a new feature that will extend the life of MacBook  Air and MacBook Pro. It’s called battery health management, and will be available in macOS Catalina 10.15.5.
+
+Battery Health Management is basically designed to extend the battery life of MacBooks. The feature examines the notebook’s battery temperature and changing patterns, to estimate how long the battery will last. The idea is to reduce battery aging over time. The feature is important because MacBook’s batteries are not user-replaceable.
+
+“While battery health management benefits your battery’s long-term lifespan, it can also reduce the amount of time your Mac runs on one battery charge when capacity limits are applied,” Apple’s support page reads.
+
+The feature is turned on by default, but you can turn the battery health management off. Here’s how to do it.
+
+*Choose System Preferences from the Apple menu, then click Energy Saver.
+
+*Click Battery Health.
+
+*Deselect Battery health management, then click OK.
+
+*Click Turn Off.
+
+The new Battery Health Management feature will be available on all MacBooks with two Thunderbolt 3 ports. This includes the new MacBook Air, the 13-inch MacBook Pro and 16-inch Macbook Pro. Apple had rolled out a similar feature called Optimized Battery Charging in its iOS-powered devices.
+
+macOS Catalina 10.15.5 is currently in its second developer beta build. Apple has yet to release details of a public beta version. Apple plans to hold its annual WWDC developer conference in June. Due to COVID-19, the conference  will be all-digital. Like previous events, Apple will reveal new updates to iOS, macOS, iPadOS, and Apple’s other software platforms.

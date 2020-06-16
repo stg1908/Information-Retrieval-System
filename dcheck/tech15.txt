@@ -1,0 +1,12 @@
+Facebook has made a huge bet on India by investing $5.7 billion into Jio Platforms, the tech subsidiary of multinational conglomerate Reliance Industries. Jio variously operates broadband, mobile services, and online commerce platforms, and Facebook’s investment gives it around a 10 percent stake in the company, making it the largest minority shareholder.
+
+Facebook’s primary footprint in India currently comes from its huge WhatsApp userbase; more than 400 million Indians use the messaging app, far more than any other country in the world. In a blog post bylined by chief revenue officer David Fischer and VP for India Ajit Mohan, the company says one of the goals of its investment is to tap into opportunities for small businesses, noting that “WhatsApp is so ingrained in Indian life that it has become a commonly used verb across many Indian languages and dialects.”
+
+FACEBOOK AND JIO COULD BE BUILDING A ‘SUPER-APP’
+“One focus of our collaboration with Jio will be creating new ways for people and businesses to operate more effectively in the growing digital economy,” Fischer and Mohan write. “For instance, by bringing together JioMart, Jio’s small business initiative, with the power of WhatsApp, we can enable people to connect with businesses, shop and ultimately purchase products in a seamless mobile experience.”
+
+Last week India’s Economic Times reported that Facebook and Reliance were planning to leverage WhatsApp and Jio services to create a WeChat-style “super-app” for India. Tencent’s WeChat has massive penetration in China, with more than a billion users and many small businesses using it for payments, promotion, and communication.
+
+WhatsApp’s reach in India is almost matched by Jio, which proved hugely disruptive in the market by offering heavily discounted 4G plans well before competitors. The company has “brought more than 388 million people online,” according to Facebook’s blog post. Facebook has attempted to get into providing internet access in India before, though its ill-conceived Free Basics program was ultimately banned for violating net neutrality.
+
+“We are excited about furthering our investment in India’s vibrant digital economy,” Fischer and Mohan write. “Our efforts with Jio will be focused on opening new doors and fueling India’s economic growth and the prosperity of its people. We look forward to working with Jio, and to future collaborations in India to advance this vision.”

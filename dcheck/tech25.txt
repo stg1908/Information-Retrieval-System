@@ -1,0 +1,35 @@
+Hackers have sold personal data of a whopping 267 million Facebook users for just Rs 41,500 (approximately 500 Euros) that includes email addresses, names, Facebook IDs, dates of birth and phone numbers.
+
+Thankfully, no passwords of the 267 million Facebook users were exposed by the hacker, according to the cyber risk assessment platform Cyble.
+
+The Cyble researchers executed the sale and were able to download and verify the data.
+
+"At this stage, we are not aware of how the data got leaked at the first instance. It might be due to a leakage in third-party API (Application Programming Interface) or scrapping," the company said in a statement.
+
+Given the data contain sensitive details on the users, it might be used by cybercriminals for phishing and spamming, it warned.
+
+In December last year, reports surfaced that a database containing names and phone numbers of more than 267 million users was exposed online.
+
+The database was made available for download on an online hacker forum, according to a blog post on the website Comparitech.
+
+A Facebook spokesperson had said at that point of time that "we are looking into this issue, but believe this is likely information obtained before changes we made in the past few years to better protect people's information".
+
+The Cyble researchers recommended users to tighten their privacy settings on their Facebook profiles, and be cautious of unsolicited emails and text messages.
+
+"We are currently indexing the data at our darkweb monitoring platform, and retail users can access it via AmIbreached.com," the company informed.
+
+Facebook faced intense scrutiny after personal data of 87 million users were harvested by UK-based political consulting firm Cambridge Analytica. The Federal Trade Commission (FTC) slapped Facebook with a $5 billion fine as a result of the breach.
+
+The social media giant in November last year revealed that at least 100 app developers may have accessed Facebook users' data for months, confirming that at least 11 partners "accessed group members' information in the last 60 days".
+
+Facebook found that the apps -- primarily social media management and video streaming apps -- retained access to group member information, like names and profile pictures in connection with group activity, from the Groups API (application programming interface).
+
+Not just Facebook, Cyble last week informed that hackers dumped over 5 lakh credentials of those who attended office conference calls via Zoom, and gave away those for free on the Dark Web.
+
+"Cyble purchased more than 530,000 on an underground hacking forum for next to nothing. Several of the company's clients were among the stolen credentials, which also included personal meeting URLs and Zoom host keys," claimed the report.
+
+Cyble confirmed that the credentials were indeed valid.
+
+Bleeping Computer also got in touch with some of the compromised account owners and were told that the passwords were correct.
+
+One hacker interviewed by Motherboard who claims to have traded exploits found in Zoom on the black market said that Zoom flaws typically sell for between $5,000 to $30,000.

@@ -1,0 +1,20 @@
+With workers confined to their homes by the coronavirus pandemic, video conferencing is providing a vital lifeline for businesses. But people are quickly realising that video chats can be a poor substitute for in-person meetings.
+
+A viral video from filmmaker H.P. Mendoza perfectly captured the awkwardness of video conferences: people frequently talk over each other, someone seems to always have microphone or camera issues, and there’s often lag. The format also fails to capture many non-verbal cues that help people communicate effectively.
+
+These shortcomings may provide an opportunity for virtual reality (VR) technology as leading VR hardware makers start to incorporate gesture, eye gaze, and facial expression tracking into their products.
+
+“Interest really has skyrocketed over the past eight weeks,” says David Whelan, CEO of Immersive VR Education, which sells a VR training and collaboration platform called Engage. The company recently helped turn HTC’s V²EC developer conference for its Vive VR headsets into a virtual event attended by 1,000 people. But Whelan says that most new demand for his company’s platform has come from companies looking for a more immersive way to carry out daily meetings with remote employees.
+
+This year's IEEE Conference on Virtual Reality and 3D User Interfaces was held in virtual reality using Mozilla Hubs.
+The HTC event wasn’t the only conference to switch to using VR tech in response to the pandemic. Last month, the IEEE Conference on Virtual Reality and 3D User Interfaces was held on Mozilla’s VR platform Hubs. Co-chair Blair MacIntyre, a VR researcher who holds positions at Mozilla and the Georgia Institute of Technology, says the response was overwhelmingly positive. But he thinks VR is even more compelling for smaller meetings, for which many people currently rely on videoconferencing.
+
+“The video calling stuff breaks down beyond a few people, because you have this big grid of tiny faces,” he says. “The full range of social cues, from posture to eye gaze to facial expressions, things like head nodding and hand gesturing—they all convey crucial information.”
+
+This information is much easier to get across in VR, he says. The latest VR technology tracks head and hand movements using cameras and inertial sensors in the headset and handheld controllers. This makes it possible to recreate a variety of social signals, such as making eye contact or gesturing at someone across a room. And a host of hardware improvements in the pipeline could soon make non-verbal communication even more powerful in VR.
+
+In January, Facebook launched a new feature for its Oculus Quest system that does away with handheld controllers. Instead, it uses cameras on the outside of the headset to precisely track hand and even finger movements. Meanwhile, competitors HTC and Pico have both produced headsets with eye tracking.
+
+For now, the biggest barrier to VR adoption for any purpose, says Whelan, is the bulkiness of the headsets, which can be uncomfortable to wear for long stretches of time. Cost is also a factor—Facebook’s stripped-down Oculus Go system costs US $149 and the HTC Vive Pro sells for $599. While it’s possible to join many VR collaboration tools from a desktop, if companies want to get the most out of VR meetings, they need to provide a headset for every employee expected to attend. But Whelan thinks many companies could justify the investment if VR meetings could reduce the expense and environmental impact of business travel.
+
+Video conferencing still translates much of that subtlety, he says, but at the expense of a sense of shared space. His lab’s goal is to avoid that trade-off and create VR telepresence that’s indistinguishable from real life. His team has released impressive demos of ultra-realistic virtual avatars that perfectly mimic a person’s movements and expressions. Getting these avatars into production, though, will require further breakthroughs in graphics, computer vision, machine learning, and audio processing.

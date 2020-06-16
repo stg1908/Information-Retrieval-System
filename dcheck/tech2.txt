@@ -1,0 +1,29 @@
+Alexa vs. Google Assistant
+Both Amazon Alexa and Google Assistant have developed into excellent voice assistants. They have dueling sets of features: Alexa supports slightly more smart home devices, for instance, while Google lets you upload your own music to its cloud.
+
+Alexa is much more configurable if you're willing to stick to its specific syntax, while Google Assistant is easier to use, less frustrating, and more fluid. Hollering different combinations of words at Google is more likely to result in a useful response. But if you learn and memorize Alexa's phrases, you can dig down to find more obscure information sources and more skills with big third-party brands like Lyft.
+Google's speakers, by default, sound better. But the 3.5mm output jack on Amazon's models opens up a huge world of third-party speakers you can then enable with little effort. Alexa is also available on more third-party speakers than Google Assistant, including the excellent Sonos One.
+
+This split has opened up in our office. Some of our editors who are big on smart home are Alexa loyalists, while my family has grown very happy yelling, "Hey Google!" That's why we're declaring a tie among the two voice assistants right now. To help you decide which speaker is right for you, here's how they compare.
+
+Alexa and Google Assistant vs. the World
+Alexa and Google Assistant are the only two voice-enabled home assistants worth considering right now. While Apple's Siri is useful on iPhones and Microsoft's Cortana works well on PCs, they both fall far behind Alexa and Google Assistant when it comes to answering a wide range of queries and accessing third-party skills by voice on home entertainment devices.
+
+In addition, the Cortana-powered Harman Kardon Invoke failed to impress us as a speaker, and the jury's still out on Apple's HomePod, which comes out February 9.
+
+Design
+The latest Amazon Echo (pictured below) is much better looking than its predecessor. It's a squat cylinder, about six inches high, with several removable fabric and wood covers so it can fit into a range of home designs. The top of the Echo has a volume ring that lights up whenever Alexa is activated. It has two buttons: one that turns the microphone off, and a multipurpose Action button.
+By comparison, the Google Home measures 5.6 inches tall and 3.8 inches around. It comes in white, with swappable fabric and metal bases in seven colors. The Home's aesthetic is inspired by candles and wine glasses, with a top half made of smooth, hard plastic that lights up with LEDs in four colors when it's listening. It also has a touch interface you can use to play and pause music, change volume, and activate Google Assistant. On the back there's a physical Mute button.
+
+Neither design is going to blow you away, and they now both have the swappable-base approach. It comes down to whether you prefer Amazon's neutral colors and woods or Google's bolder colors and metal. I think Amazon's approach is a little more on-trend at the moment, especially with its light wood base.
+
+Music
+The Home provides richer, more well-rounded sound than the Echo does, although it doesn't get as loud—there's a 3-4dB difference in maximum volume at a one-foot distance. The Home delivers much better sound quality than the Amazon Amazon Echo Dot or Tap.
+
+Both devices support iHeartRadio, Pandora, Spotify, and TuneIn. The Echo also supports Amazon Music, while the Home supports Google Play Music and YouTube Red.
+
+Google now lets you upload your own music library to its cloud. Amazon used to, but you can no longer sign up for that service (and existing users will be cut off in 2019). That makes Google's cloud a better bet for people who have music collections that aren't found on the major streaming services.
+
+The Echo has a 3.5mm out jack so that you can connect it to a more powerful speaker. The Google Home does not. However, both the Echo and the Google Home can be used as Bluetooth speakers for your phone, and both support multi-room audio.
+
+If you're looking for the best possible audio quality, the Alexa approach would be to get a cheap Echo Dot and hook it up to a nicer speaker via the 3.5mm out; the Google approach would be to buy the high-end Google Home Max or JBL Link 500.

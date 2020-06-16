@@ -1,0 +1,12 @@
+Facebook, last month, announced a new feature called Messenger Rooms for Facebook Messenger that would enable users to interact with WhatsApp and Instagram users directly without leaving their respective apps. Soon after, the feature was spotted in the beta version of WhatsApp’s Android based. Now, WhatsApp has detailed how the feature would work in WhatsApp for Android.
+WhatsApp has updated the FAQ page for its Android based app wherein the company has detailed create and share a Room link, join a Room as a creator and join a Room as an invitee.
+So here’s how you can create and share a Room link in WhatsApp’s Android based app:
+Step 1: Open WhatsApp and then go to the Calls tab.
+Step 2: Tap on Create a Room option. Alternatively, you can also open an individual chat > tap on the paperclip menu > tap on Rooms option.
+Step 3: In the pop up window, tap on Continue in Messenger option. Then tap on the Try It option.
+Step 4: Now tap on Create Room As [name of the Room] option.
+Step 5: Next, tap on Send Link on WhatsApp to reopen WhatsApp.
+Step 6: Now search or select contacts or group chats to share the Room Link with and then tap on the arrow on the screen.
+Step 7: Now, you will see the link with a text field where you can customize your message.
+Step 8: Tap on the Send button and you are good to go.
+It is worth noting that WhatsApp hasn't rolled out the feature in its main app yet. The feature is in works and it is expected to be rolled out to the users soon.

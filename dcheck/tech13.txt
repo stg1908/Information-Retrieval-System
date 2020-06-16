@@ -1,0 +1,9 @@
+Facebook appears to be working on a dark mode for its flagship iOS app. WABetaInfo managed to enable the hidden setting, which is still under development and not yet available to public or beta users.
+
+9to5 Mac followed suit, and their screenshots suggest Facebook is aiming for a theme that's closer to greyscale than the true blacks used in Apple's dark mode for iOS 13. Facebook offers a similar theme in its Android app.
+
+It's unclear why Facebook is preferring a greyscale theme, as this negates the potential energy-saving benefits of its dark mode for OLED iPhones (pixels on an OLED panel are individually powered and true black pixels remain inactive).
+
+Still, the alternative new look should be easier on the eyes when viewed in dark environments. WABetaInfo says the feature can be turned on and off manually or set to adjust based on the device's system settings.
+
+Some UI elements still need working on to make the interface look consistent in dark mode, and there's no word on when Facebook intends to launch the feature, which could change in the interim. Facebook Messenger got its own dark mode in April 2019. Last month, Facebook started rolling out an optional dark mode for users accessing the social network from a web browser.

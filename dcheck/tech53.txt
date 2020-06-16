@@ -1,0 +1,10 @@
+A hacker has compromised personal data of 23 million players of online children game Webkinz World by Canadian toy company Ganz, dumping the usernames and passwords on the Dark Web. According to a ZDNet report on Sunday, an anonymous hacker posted part of the game's database on a well-known hacking forum. The security breach happened earlier this month.
+
+"The 1GB file uploaded online contained 22,982,319 pairs of usernames and passwords, with the passwords being encrypted with the MD5-Crypt algorithm," the report mentioned.
+The hacker allegedly gained access to the game's database using an SQL injection vulnerability present in one of the website's web forms. Launched in 2005, the Webkinz game is a very popular one only next to Disney's Club Penguin.
+The hacker allegedly gained access to the game's database using an SQL injection vulnerability present in one of the website's web forms. Webkinz has patched the hacker's point of entry into their systems.
+In a statement posted on its website, Ganz said it archives accounts that have been inactive for more than 18 months.
+
+"For security purposes, during the archiving process, we remove all information associated to the account other than then User Name and Password. Please note that if an account remains inactive for a period of 7 years, Ganz will then delete that account," the company said.
+"If you wish to reactivate an archived account and you remember your login credentials, simply attempt to login to your Webkinz World account to initiate the automatic account recovery process. You will be able to login to your account after 24 hours," it added.
+"Please note that if an account remains inactive for a period of 7 years, Ganz will then delete that account".

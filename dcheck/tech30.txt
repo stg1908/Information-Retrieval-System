@@ -1,0 +1,11 @@
+PUNE : Germany-headquartered internet exchange operator DE-CIX said there has been a change in internet user behaviour in India following the lockdown, with customers also ordering larger data capacities.
+
+“Gaming traffic has increased by 50% in the last few weeks, with doubling of traffic in video streaming and collaborative work apps like Skype, Teams and Zoom,” said Ivo Ivanov, CEO of DE-CIX International, which runs an internet exchange in Mumbai.
+
+The overall internet traffic in the first two weeks of the lockdown, which began on March 25, increased by 1 terabyte, said Ivanov, 30-40% higher than normal.
+
+While a lot of internet traffic shifted from offices and institutions to homes, people are also doing a lot more online. “A lot of social interactions are now happening online, so even though business traffic has dropped, the overall volume of traffic has increased,” said Ivanov.
+
+From children being educated to artistes performing online, several new user groups have emerged, leading to increase in internet traffic.
+
+The shift in consumption patterns are in line with global patterns. DE-CIX runs the world’s largest internet exchange in Frankfurt, where it has recorded videoconferencing traffic increase of about 50%, with demand for additional customer capacities increasing 20% worldwide.

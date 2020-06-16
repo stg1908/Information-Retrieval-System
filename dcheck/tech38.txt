@@ -1,0 +1,15 @@
+Just a few days ago, we reported that WhatsApp is working on extending the limit of participants in a group video call, the reports stated that company has already extended the limit from 4 to 8 participants per video call and has started rolling out the new feature for Android and iOS beta users.
+
+A report by WABetainfo, WhatsApp has doubled the limit from four to eight and people using the latest beta versions of the app on iOS and Android will be able to add more than four participants in a video call. In order to get the latest feature, a user is required to install the 2.20.50.25 iOS beta update from TestFlight for iOS users and 2.20.133 beta from Google Play for Android users. If any of the group members fail to download the latest beta versions of the app, he will fail to be a part of the group video chat.
+
+With this move, WhatsApp surely has plans to take on existing video conferencing apps that are facing a surge in usage due to the ongoing coronavirus pandemic. Ever since the world went into lockdown, working professionals from across the world took to Zoom, a Silicon-valley based video conferring platform. Although Zoom basked in the overnight fame for quite some time, its flawed privacy policies soon forced many tech giants and governments to refrain themselves from using the app. That is when the people started looking up for safer options.
+
+WhatsApp crashed into the opportunity in the perfect time and extended the limit from four to eight. Although the app is only used for casual chats, its video call facility can also be used by professionals to conduct meetings remotely if there are eight or less then eight members in a team.
+
+So here’s how you can add upto eight people in a group chat:-
+
+There are many ways to start a group video call and one of them is to simply hit the call icon and start the chat. If your group consists of only four participants, WhatsApp will automatically start the call. However, if your group is bigger than four, WhatsApp will ask which contacts you want to include in your chat. If you haven’t saved the contact of some people, WhatsApp will not add those people to the call.
+
+ If you don’t want to make a group, the easiest way to start a call is by opening the Calls tab, then tap the Call button, then select the New group call icon provided. If you tap on it, you will get an option to select the contacts you want to add to your call. This is the most convenient way of starting a group video call.
+
+Many WhatsApp beta users have still not received the update despite downloading the latest versions. This could be because WhatsApp is slowly rolling out the feature and it would come to you sooner or later.
