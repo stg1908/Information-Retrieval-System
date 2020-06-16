@@ -32,5 +32,7 @@ java Project
 ## Note
 
 Binv.java contains random data to check whether the evaluation programme is working correctly or not.  
+It would be better if you update or change the collections in Dcheck and Qcheck folder.
+For better results, you can update the programme to remove stop words from query and documents.
 -----STG
  
